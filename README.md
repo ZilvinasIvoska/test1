@@ -1,7 +1,7 @@
 # test1
 
 Eine Testverzeignis
-##  Hello world! -->
+##  Hello world!
   punk:
     -a
     -b
